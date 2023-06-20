@@ -1,1 +1,2 @@
-# Um modelo de interface <login> ! 
+# Um modelo de interface animada com paletas de cores sofisticadas. 
+## Simples e futuramente será funcional, com a implementação do JS. 
